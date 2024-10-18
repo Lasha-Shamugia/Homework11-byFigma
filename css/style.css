@@ -7,6 +7,14 @@ main {
   margin: 100px auto;
   gap: 20px; 
   width: 1180px;
+  position: relative;
+}
+.div-PHOTOGRAPH {
+  position: absolute;
+  top: -60px;
+  left: 0px;
+  font-size: 30px;
+  color:black;
 }
 .top-img {
   background-image: url("../images/img1.jpg");
